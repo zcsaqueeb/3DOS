@@ -1,7 +1,3 @@
-Certainly! Here's the updated content with the new repository link:
-
----
-
 # 📌 3DOS Bot Mining
 💸 **Join here:** [https://dashboard.3dos.io/register?ref_code=9bbfe9](https://dashboard.3dos.io/register?ref_code=9bbfe9)  
 💬 @3DOSNetwork  
